@@ -2,6 +2,10 @@
 
 특허청 제출 파일(hlz, dta, fin, xlz)을 브라우저에서 바로 보는 뷰어입니다.
 
+
+https://github.com/user-attachments/assets/2c9a611e-03ff-4d7f-9ff5-7905ab91ec51
+
+
 ## 사용법
 
 1. https://gozigo000.github.io/k-pat-viewer/ 를 Chrome이나 Edge로 엽니다.
